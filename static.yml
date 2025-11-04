@@ -26,7 +26,7 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?color_snake=89CFF0&color_dots=#e0f7ff,#b3ecff,#99e0ff,#66ccff,#89CFF0
+            dist/snake.gif?color_snake=eba140&color_dots=#f5deb3,#ffd700,#ffb347,#eba140,#e9967a
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
