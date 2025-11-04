@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariam Shemis</h1>
 
-<h2 align="center">Flutter Developer | Computer Science Graduate</h2>
+<h2 align="center">Flutter Developer | Computer Science </h2>
 <br>
 
   <p align="center">
