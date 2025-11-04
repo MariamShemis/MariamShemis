@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Mariam Shemis</h1>
 
 <h2 align="center">Flutter Developer | Computer Science Graduate</h2>
@@ -16,10 +15,10 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/">
+  <a href="https://drive.google.com/file/d/161SSUB-UuZgVuV7Du1DiPaVYEbmXOudd/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My CV-eba140?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a> &nbsp;
-  <a href="https://mariamshemis.github.io/Portfolio">
+  <a href="https://drive.google.com/file/d/1esT54ey2j3PWZskmh0whkxTTZHjBafuD/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My Portfolio-eba140?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
@@ -30,8 +29,6 @@
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/mariam-shemis7/">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-  <a href="https://wa.me/">
-    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
   <a href="https://github.com/MariamShemis">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/></a>
 </p>
