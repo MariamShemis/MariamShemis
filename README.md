@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariam Shemis</h1>
 
-<h2 align="center">Flutter Developer | Computer Science </h2>
+<h2 align="center">Software Engineer | Flutter Developer </h2>
 <br>
 
   <p align="center">
@@ -35,7 +35,7 @@
 
 ### 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,android,git,github,vscode,cpp,html,css&perline=7" style="height:113px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,android,git,github,vscode,cpp&perline=5" style="height:113px;"/>
 </p>
 
 ### 🏆 GitHub Stats
